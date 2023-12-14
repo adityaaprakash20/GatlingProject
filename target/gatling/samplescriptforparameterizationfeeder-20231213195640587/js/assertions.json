@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.api.SampleScriptForParameterizationFeeder",
+  "simulationId": "samplescriptforparameterizationfeeder",
+  "start": 1702497400587,
+  "description": "",
+  "scenarios": ["Feeder Scenario Parameterization"],
+  "assertions": [
+
+  ]
+}

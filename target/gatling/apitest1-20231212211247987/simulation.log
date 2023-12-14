@@ -1,0 +1,2 @@
+RUN	com.gatling.tests.api.APITest1	apitest1	1702415567987	 	3.6.1
+USER	RESTAPI_GET_SingleUser	START	1702415575028

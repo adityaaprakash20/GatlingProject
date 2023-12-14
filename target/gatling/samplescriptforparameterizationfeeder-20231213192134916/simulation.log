@@ -1,0 +1,3 @@
+RUN	com.gatling.tests.api.SampleScriptForParameterizationFeeder	samplescriptforparameterizationfeeder	1702495294916	 	3.6.1
+USER	Feeder Scenario Parameterization	START	1702495295016
+USER	Feeder Scenario Parameterization	END	1702495295029

@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.api.SampleScriptForParameterizationFeeder	samplescriptforparameterizationfeeder	1702497132647	 	3.6.1
+USER	Feeder Scenario Parameterization	START	1702497134013
+REQUEST		TC01_Keyword_Search	1702497136074	1702497136345	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 400
+USER	Feeder Scenario Parameterization	END	1702497136363

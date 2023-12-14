@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.api.SampleScriptForParameterizationFeeder	samplescriptforparameterizationfeeder	1702497559834	 	3.6.1
+USER	Feeder Scenario Parameterization	START	1702497561219
+REQUEST		TC01_Keyword_Search	1702497563291	1702497563596	OK	 
+USER	Feeder Scenario Parameterization	END	1702497563681

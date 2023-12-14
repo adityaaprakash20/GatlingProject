@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.api.PostPutDeleteDemoAPI	postputdeletedemoapi	1702425404392	 	3.6.1
+USER	RESTAPI_POST_CreateUser	START	1702425407825
+REQUEST		RESTAPI_POST_CreateUser	1702425407960	1702425409087	KO	status.find.is(201), but actually found 404
+USER	RESTAPI_POST_CreateUser	END	1702425409225
